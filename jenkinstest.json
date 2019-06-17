@@ -7,6 +7,9 @@
         }, 
         "adminPassword": {
             "value": "bigrandom password"
+        },
+        "somethingelse": {
+            "value": "somevalue"
         }
     }
 }
