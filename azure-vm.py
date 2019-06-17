@@ -2,7 +2,7 @@ import json
 import os
 from collections import OrderedDict
 
-with open('test.json', "r+") as jsonFile:
+with open('jenkinstest.json', "r+") as jsonFile:
 	data = json.load(jsonFile, object_pairs_hook=OrderedDict)
 
 #	tmp = data["location"]
